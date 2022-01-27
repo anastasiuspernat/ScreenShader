@@ -1,8 +1,7 @@
 //
-//  glslCPPBridge.h
-//  glslViewer
+//  GLSLView.h
 //
-//  Created by Anastasy on 1/18/22.
+//  Created by Anastasiy on 1/18/22.
 //
 
 #ifndef glslView_h

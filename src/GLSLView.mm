@@ -1,8 +1,7 @@
 //
-//  glslCPPBridge.m
-//  glglScreensaver2
+//  GLSLView.mm
 //
-//  Created by Anastasy on 1/18/22.
+//  Created by Anastasiy on 1/18/22.
 //
 
 #import <Foundation/Foundation.h>

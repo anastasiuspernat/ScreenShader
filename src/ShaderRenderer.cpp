@@ -1,8 +1,7 @@
 //
-//  glslBridge.cpp
-//  glglScreensaver2
+//  ShaderRenderer.cpp
 //
-//  Copyright(C) Anastasiy Safari
+//  Adapted by Anastasiy Safari
 //  Copyright (c) 2014, Patricio Gonzalez Vivo
 //  Based on original code from:
 /*

@@ -2,7 +2,7 @@
 //  glglScreensaver2View.m
 //  glglScreensaver2
 //
-//  Created by Anastasy on 1/18/22.
+//  Created by Anastasiy on 1/18/22.
 //
 
 
